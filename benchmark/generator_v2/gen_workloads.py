@@ -613,7 +613,7 @@ def gen_multi_data(row_num, col_num, base_name, workload):
             init_all_slot(col_num_per_dtype, js_reader=workload_config_dict[DATA_TYPE])
             col_config_list = []
             for col_idx in range(col_num_per_dtype):
-                output_config_file = f'./{base_name}/configs/core/{DATA_TYPE}_{col_idx}.json'
+                output_config_file = f'./{base_name}/configs/{workload}/{DATA_TYPE}_{col_idx}.json'
                 col_config_list.append(rewrite_config(DATA_TYPE, row_num, output_config_file))
             tasks = [(col_config, DATA_TYPE, seed_list, col_idx) for (col_config, col_idx) in zip(col_config_list, range(col_num_per_dtype))]
             results = MP_POOL.starmap_async(process_col, tasks).get()
