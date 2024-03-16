@@ -1,4 +1,13 @@
 **/__pycache__
 **/.ipynb_checkpoints
-python/datagen/**/*.csv
+python/data_gen/**/*.csv
+python/data_gen/*.csv
+python/data_gen/*.txt
+python/data_gen/*.yaml
+python/outputs/*.csv
+python/encoding/*.csv
+python/encoding/**/*.parquet
+python/encoding/**/*.orc
+python/result/*
+python/encoding/idx*
 

@@ -1,0 +1,1 @@
+binary: 0 btr: 8.09727 total: 8.09727 verify: 1

@@ -1,0 +1,3 @@
+{"run": 2, "file": "parquet", "size": 17574165, "read_time": 0.109458, "read_time_preload": 0.0577578}
+{"run": 2, "file": "orc", "size": 20243199, "read_time": 0.116894, "read_time_preload": 0.0620068}
+{"run": 2, "file": "btrblocks", "size": [17970740.0], "read_time": 87048.0, "read_time_preload": 86666.0}
