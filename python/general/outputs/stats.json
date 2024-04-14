@@ -1,180 +1,180 @@
-{"workload": "core", "i": 0, "file": "parquet", "size": 165622590, "read_time": 0.237837}
-{"workload": "core", "i": 0, "file": "orc", "size": 97872877, "read_time": 0.243662}
-{"workload": "core", "i": 0, "file": "btrblocks", "size": 34427799.0, "read_time": 50889.0, "size_with_metadata": 34427967.0}
-{"workload": "geo", "i": 0, "file": "parquet", "size": 245655559, "read_time": 0.305332}
-{"workload": "geo", "i": 0, "file": "orc", "size": 181559166, "read_time": 0.312475}
-{"workload": "geo", "i": 0, "file": "btrblocks", "size": 117554095.0, "read_time": 290881.0, "size_with_metadata": 117554263.0}
-{"workload": "classic", "i": 0, "file": "parquet", "size": 312040815, "read_time": 0.358991}
-{"workload": "classic", "i": 0, "file": "orc", "size": 248836780, "read_time": 0.394196}
-{"workload": "classic", "i": 0, "file": "btrblocks", "size": 195169406.0, "read_time": 506034.0, "size_with_metadata": 195169574.0}
-{"workload": "log", "i": 0, "file": "parquet", "size": 261985085, "read_time": 0.321994}
-{"workload": "log", "i": 0, "file": "orc", "size": 186004786, "read_time": 0.301441}
-{"workload": "log", "i": 0, "file": "btrblocks", "size": 26774157.0, "read_time": 50563.0, "size_with_metadata": 26774325.0}
-{"workload": "ml", "i": 0, "file": "parquet", "size": 245793299, "read_time": 0.318429}
-{"workload": "ml", "i": 0, "file": "orc", "size": 175786470, "read_time": 0.336139}
-{"workload": "ml", "i": 0, "file": "btrblocks", "size": 80388811.0, "read_time": 162731.0, "size_with_metadata": 80388979.0}
-{"workload": "bi", "i": 0, "file": "parquet", "size": 167166863, "read_time": 0.231862}
-{"workload": "bi", "i": 0, "file": "orc", "size": 102459149, "read_time": 0.22563}
-{"workload": "bi", "i": 0, "file": "btrblocks", "size": 26421427.0, "read_time": 34140.0, "size_with_metadata": 26421595.0}
-{"workload": "core", "i": 1, "file": "parquet", "size": 165622590, "read_time": 0.235022}
-{"workload": "core", "i": 1, "file": "orc", "size": 97872877, "read_time": 0.247365}
-{"workload": "core", "i": 1, "file": "btrblocks", "size": 34427799.0, "read_time": 50936.0, "size_with_metadata": 34427967.0}
-{"workload": "geo", "i": 1, "file": "parquet", "size": 245655559, "read_time": 0.306901}
-{"workload": "geo", "i": 1, "file": "orc", "size": 181559166, "read_time": 0.318367}
-{"workload": "geo", "i": 1, "file": "btrblocks", "size": 117554095.0, "read_time": 290559.0, "size_with_metadata": 117554263.0}
-{"workload": "classic", "i": 1, "file": "parquet", "size": 312040815, "read_time": 0.351593}
-{"workload": "classic", "i": 1, "file": "orc", "size": 248836780, "read_time": 0.399328}
-{"workload": "classic", "i": 1, "file": "btrblocks", "size": 195169406.0, "read_time": 506798.0, "size_with_metadata": 195169574.0}
-{"workload": "log", "i": 1, "file": "parquet", "size": 261985085, "read_time": 0.309465}
-{"workload": "log", "i": 1, "file": "orc", "size": 186004786, "read_time": 0.309598}
-{"workload": "log", "i": 1, "file": "btrblocks", "size": 26774157.0, "read_time": 51056.0, "size_with_metadata": 26774325.0}
-{"workload": "ml", "i": 1, "file": "parquet", "size": 245793299, "read_time": 0.333579}
-{"workload": "ml", "i": 1, "file": "orc", "size": 175786470, "read_time": 0.341587}
-{"workload": "ml", "i": 1, "file": "btrblocks", "size": 80388811.0, "read_time": 155464.0, "size_with_metadata": 80388979.0}
-{"workload": "bi", "i": 1, "file": "parquet", "size": 167166863, "read_time": 0.234346}
-{"workload": "bi", "i": 1, "file": "orc", "size": 102459149, "read_time": 0.22674}
-{"workload": "bi", "i": 1, "file": "btrblocks", "size": 26421427.0, "read_time": 33249.0, "size_with_metadata": 26421595.0}
-{"workload": "core", "i": 2, "file": "parquet", "size": 165622590, "read_time": 0.231027}
-{"workload": "core", "i": 2, "file": "orc", "size": 97872877, "read_time": 0.248111}
-{"workload": "core", "i": 2, "file": "btrblocks", "size": 34427799.0, "read_time": 55375.0, "size_with_metadata": 34427967.0}
-{"workload": "geo", "i": 2, "file": "parquet", "size": 245655559, "read_time": 0.297871}
-{"workload": "geo", "i": 2, "file": "orc", "size": 181559166, "read_time": 0.312196}
-{"workload": "geo", "i": 2, "file": "btrblocks", "size": 117554095.0, "read_time": 290818.0, "size_with_metadata": 117554263.0}
-{"workload": "classic", "i": 2, "file": "parquet", "size": 312040815, "read_time": 0.358715}
-{"workload": "classic", "i": 2, "file": "orc", "size": 248836780, "read_time": 0.403909}
-{"workload": "classic", "i": 2, "file": "btrblocks", "size": 195169406.0, "read_time": 506057.0, "size_with_metadata": 195169574.0}
-{"workload": "log", "i": 2, "file": "parquet", "size": 261985085, "read_time": 0.302343}
-{"workload": "log", "i": 2, "file": "orc", "size": 186004786, "read_time": 0.289927}
-{"workload": "log", "i": 2, "file": "btrblocks", "size": 26774157.0, "read_time": 56100.0, "size_with_metadata": 26774325.0}
-{"workload": "ml", "i": 2, "file": "parquet", "size": 245793299, "read_time": 0.313116}
-{"workload": "ml", "i": 2, "file": "orc", "size": 175786470, "read_time": 0.352921}
-{"workload": "ml", "i": 2, "file": "btrblocks", "size": 80388811.0, "read_time": 155594.0, "size_with_metadata": 80388979.0}
-{"workload": "bi", "i": 2, "file": "parquet", "size": 167166863, "read_time": 0.232984}
-{"workload": "bi", "i": 2, "file": "orc", "size": 102459149, "read_time": 0.233176}
-{"workload": "bi", "i": 2, "file": "btrblocks", "size": 26421427.0, "read_time": 32874.0, "size_with_metadata": 26421595.0}
-{"workload": "core", "i": 3, "file": "parquet", "size": 165622590, "read_time": 0.239294}
-{"workload": "core", "i": 3, "file": "orc", "size": 97872877, "read_time": 0.243834}
-{"workload": "core", "i": 3, "file": "btrblocks", "size": 34427799.0, "read_time": 50564.0, "size_with_metadata": 34427967.0}
-{"workload": "geo", "i": 3, "file": "parquet", "size": 245655559, "read_time": 0.307403}
-{"workload": "geo", "i": 3, "file": "orc", "size": 181559166, "read_time": 0.328845}
-{"workload": "geo", "i": 3, "file": "btrblocks", "size": 117554095.0, "read_time": 290874.0, "size_with_metadata": 117554263.0}
-{"workload": "classic", "i": 3, "file": "parquet", "size": 312040815, "read_time": 0.362695}
-{"workload": "classic", "i": 3, "file": "orc", "size": 248836780, "read_time": 0.424817}
-{"workload": "classic", "i": 3, "file": "btrblocks", "size": 195169406.0, "read_time": 506301.0, "size_with_metadata": 195169574.0}
-{"workload": "log", "i": 3, "file": "parquet", "size": 261985085, "read_time": 0.322673}
-{"workload": "log", "i": 3, "file": "orc", "size": 186004786, "read_time": 0.297549}
-{"workload": "log", "i": 3, "file": "btrblocks", "size": 26774157.0, "read_time": 50791.0, "size_with_metadata": 26774325.0}
-{"workload": "ml", "i": 3, "file": "parquet", "size": 245793299, "read_time": 0.316755}
-{"workload": "ml", "i": 3, "file": "orc", "size": 175786470, "read_time": 0.336641}
-{"workload": "ml", "i": 3, "file": "btrblocks", "size": 80388811.0, "read_time": 155432.0, "size_with_metadata": 80388979.0}
-{"workload": "bi", "i": 3, "file": "parquet", "size": 167166863, "read_time": 0.23981}
-{"workload": "bi", "i": 3, "file": "orc", "size": 102459149, "read_time": 0.225903}
-{"workload": "bi", "i": 3, "file": "btrblocks", "size": 26421427.0, "read_time": 36883.0, "size_with_metadata": 26421595.0}
-{"workload": "core", "i": 4, "file": "parquet", "size": 165622590, "read_time": 0.242923}
-{"workload": "core", "i": 4, "file": "orc", "size": 97872877, "read_time": 0.241195}
-{"workload": "core", "i": 4, "file": "btrblocks", "size": 34427799.0, "read_time": 50513.0, "size_with_metadata": 34427967.0}
-{"workload": "geo", "i": 4, "file": "parquet", "size": 245655559, "read_time": 0.303998}
-{"workload": "geo", "i": 4, "file": "orc", "size": 181559166, "read_time": 0.309626}
-{"workload": "geo", "i": 4, "file": "btrblocks", "size": 117554095.0, "read_time": 292673.0, "size_with_metadata": 117554263.0}
-{"workload": "classic", "i": 4, "file": "parquet", "size": 312040815, "read_time": 0.357986}
-{"workload": "classic", "i": 4, "file": "orc", "size": 248836780, "read_time": 0.411809}
-{"workload": "classic", "i": 4, "file": "btrblocks", "size": 195169406.0, "read_time": 506366.0, "size_with_metadata": 195169574.0}
-{"workload": "log", "i": 4, "file": "parquet", "size": 261985085, "read_time": 0.31045}
-{"workload": "log", "i": 4, "file": "orc", "size": 186004786, "read_time": 0.295022}
-{"workload": "log", "i": 4, "file": "btrblocks", "size": 26774157.0, "read_time": 55681.0, "size_with_metadata": 26774325.0}
-{"workload": "ml", "i": 4, "file": "parquet", "size": 245793299, "read_time": 0.316536}
-{"workload": "ml", "i": 4, "file": "orc", "size": 175786470, "read_time": 0.334933}
-{"workload": "ml", "i": 4, "file": "btrblocks", "size": 80388811.0, "read_time": 155544.0, "size_with_metadata": 80388979.0}
-{"workload": "bi", "i": 4, "file": "parquet", "size": 167166863, "read_time": 0.238305}
-{"workload": "bi", "i": 4, "file": "orc", "size": 102459149, "read_time": 0.225666}
-{"workload": "bi", "i": 4, "file": "btrblocks", "size": 26421427.0, "read_time": 33374.0, "size_with_metadata": 26421595.0}
-{"workload": "core", "i": 5, "file": "parquet", "size": 165622590, "read_time": 0.238647}
-{"workload": "core", "i": 5, "file": "orc", "size": 97872877, "read_time": 0.24501}
-{"workload": "core", "i": 5, "file": "btrblocks", "size": 34427799.0, "read_time": 53617.0, "size_with_metadata": 34427967.0}
-{"workload": "geo", "i": 5, "file": "parquet", "size": 245655559, "read_time": 0.308023}
-{"workload": "geo", "i": 5, "file": "orc", "size": 181559166, "read_time": 0.310275}
-{"workload": "geo", "i": 5, "file": "btrblocks", "size": 117554095.0, "read_time": 297592.0, "size_with_metadata": 117554263.0}
-{"workload": "classic", "i": 5, "file": "parquet", "size": 312040815, "read_time": 0.359006}
-{"workload": "classic", "i": 5, "file": "orc", "size": 248836780, "read_time": 0.422165}
-{"workload": "classic", "i": 5, "file": "btrblocks", "size": 195169406.0, "read_time": 508302.0, "size_with_metadata": 195169574.0}
-{"workload": "log", "i": 5, "file": "parquet", "size": 261985085, "read_time": 0.320204}
-{"workload": "log", "i": 5, "file": "orc", "size": 186004786, "read_time": 0.29478}
-{"workload": "log", "i": 5, "file": "btrblocks", "size": 26774157.0, "read_time": 56007.0, "size_with_metadata": 26774325.0}
-{"workload": "ml", "i": 5, "file": "parquet", "size": 245793299, "read_time": 0.320129}
-{"workload": "ml", "i": 5, "file": "orc", "size": 175786470, "read_time": 0.324065}
-{"workload": "ml", "i": 5, "file": "btrblocks", "size": 80388811.0, "read_time": 155458.0, "size_with_metadata": 80388979.0}
-{"workload": "bi", "i": 5, "file": "parquet", "size": 167166863, "read_time": 0.241832}
-{"workload": "bi", "i": 5, "file": "orc", "size": 102459149, "read_time": 0.229612}
-{"workload": "bi", "i": 5, "file": "btrblocks", "size": 26421427.0, "read_time": 32566.0, "size_with_metadata": 26421595.0}
-{"workload": "core", "i": 6, "file": "parquet", "size": 165622590, "read_time": 0.241511}
-{"workload": "core", "i": 6, "file": "orc", "size": 97872877, "read_time": 0.249869}
-{"workload": "core", "i": 6, "file": "btrblocks", "size": 34427799.0, "read_time": 50520.0, "size_with_metadata": 34427967.0}
-{"workload": "geo", "i": 6, "file": "parquet", "size": 245655559, "read_time": 0.303965}
-{"workload": "geo", "i": 6, "file": "orc", "size": 181559166, "read_time": 0.313442}
-{"workload": "geo", "i": 6, "file": "btrblocks", "size": 117554095.0, "read_time": 290691.0, "size_with_metadata": 117554263.0}
-{"workload": "classic", "i": 6, "file": "parquet", "size": 312040815, "read_time": 0.358413}
-{"workload": "classic", "i": 6, "file": "orc", "size": 248836780, "read_time": 0.396727}
-{"workload": "classic", "i": 6, "file": "btrblocks", "size": 195169406.0, "read_time": 506407.0, "size_with_metadata": 195169574.0}
-{"workload": "log", "i": 6, "file": "parquet", "size": 261985085, "read_time": 0.29539}
-{"workload": "log", "i": 6, "file": "orc", "size": 186004786, "read_time": 0.290618}
-{"workload": "log", "i": 6, "file": "btrblocks", "size": 26774157.0, "read_time": 55765.0, "size_with_metadata": 26774325.0}
-{"workload": "ml", "i": 6, "file": "parquet", "size": 245793299, "read_time": 0.317563}
-{"workload": "ml", "i": 6, "file": "orc", "size": 175786470, "read_time": 0.357934}
-{"workload": "ml", "i": 6, "file": "btrblocks", "size": 80388811.0, "read_time": 155522.0, "size_with_metadata": 80388979.0}
-{"workload": "bi", "i": 6, "file": "parquet", "size": 167166863, "read_time": 0.240967}
-{"workload": "bi", "i": 6, "file": "orc", "size": 102459149, "read_time": 0.227554}
-{"workload": "bi", "i": 6, "file": "btrblocks", "size": 26421427.0, "read_time": 33142.0, "size_with_metadata": 26421595.0}
-{"workload": "core", "i": 7, "file": "parquet", "size": 165622590, "read_time": 0.23273}
-{"workload": "core", "i": 7, "file": "orc", "size": 97872877, "read_time": 0.232834}
-{"workload": "core", "i": 7, "file": "btrblocks", "size": 34427799.0, "read_time": 54336.0, "size_with_metadata": 34427967.0}
-{"workload": "geo", "i": 7, "file": "parquet", "size": 245655559, "read_time": 0.310751}
-{"workload": "geo", "i": 7, "file": "orc", "size": 181559166, "read_time": 0.317904}
-{"workload": "geo", "i": 7, "file": "btrblocks", "size": 117554095.0, "read_time": 291165.0, "size_with_metadata": 117554263.0}
-{"workload": "classic", "i": 7, "file": "parquet", "size": 312040815, "read_time": 0.358803}
-{"workload": "classic", "i": 7, "file": "orc", "size": 248836780, "read_time": 0.408853}
-{"workload": "classic", "i": 7, "file": "btrblocks", "size": 195169406.0, "read_time": 506368.0, "size_with_metadata": 195169574.0}
-{"workload": "log", "i": 7, "file": "parquet", "size": 261985085, "read_time": 0.314925}
-{"workload": "log", "i": 7, "file": "orc", "size": 186004786, "read_time": 0.287771}
-{"workload": "log", "i": 7, "file": "btrblocks", "size": 26774157.0, "read_time": 56245.0, "size_with_metadata": 26774325.0}
-{"workload": "ml", "i": 7, "file": "parquet", "size": 245793299, "read_time": 0.312782}
-{"workload": "ml", "i": 7, "file": "orc", "size": 175786470, "read_time": 0.345976}
-{"workload": "ml", "i": 7, "file": "btrblocks", "size": 80388811.0, "read_time": 155495.0, "size_with_metadata": 80388979.0}
-{"workload": "bi", "i": 7, "file": "parquet", "size": 167166863, "read_time": 0.237823}
-{"workload": "bi", "i": 7, "file": "orc", "size": 102459149, "read_time": 0.234021}
-{"workload": "bi", "i": 7, "file": "btrblocks", "size": 26421427.0, "read_time": 32327.0, "size_with_metadata": 26421595.0}
-{"workload": "core", "i": 8, "file": "parquet", "size": 165622590, "read_time": 0.238092}
-{"workload": "core", "i": 8, "file": "orc", "size": 97872877, "read_time": 0.251607}
-{"workload": "core", "i": 8, "file": "btrblocks", "size": 34427799.0, "read_time": 50459.0, "size_with_metadata": 34427967.0}
-{"workload": "geo", "i": 8, "file": "parquet", "size": 245655559, "read_time": 0.307053}
-{"workload": "geo", "i": 8, "file": "orc", "size": 181559166, "read_time": 0.320437}
-{"workload": "geo", "i": 8, "file": "btrblocks", "size": 117554095.0, "read_time": 290578.0, "size_with_metadata": 117554263.0}
-{"workload": "classic", "i": 8, "file": "parquet", "size": 312040815, "read_time": 0.353615}
-{"workload": "classic", "i": 8, "file": "orc", "size": 248836780, "read_time": 0.398405}
-{"workload": "classic", "i": 8, "file": "btrblocks", "size": 195169406.0, "read_time": 506025.0, "size_with_metadata": 195169574.0}
-{"workload": "log", "i": 8, "file": "parquet", "size": 261985085, "read_time": 0.313722}
-{"workload": "log", "i": 8, "file": "orc", "size": 186004786, "read_time": 0.288424}
-{"workload": "log", "i": 8, "file": "btrblocks", "size": 26774157.0, "read_time": 51143.0, "size_with_metadata": 26774325.0}
-{"workload": "ml", "i": 8, "file": "parquet", "size": 245793299, "read_time": 0.29999}
-{"workload": "ml", "i": 8, "file": "orc", "size": 175786470, "read_time": 0.333785}
-{"workload": "ml", "i": 8, "file": "btrblocks", "size": 80388811.0, "read_time": 162807.0, "size_with_metadata": 80388979.0}
-{"workload": "bi", "i": 8, "file": "parquet", "size": 167166863, "read_time": 0.239588}
-{"workload": "bi", "i": 8, "file": "orc", "size": 102459149, "read_time": 0.226971}
-{"workload": "bi", "i": 8, "file": "btrblocks", "size": 26421427.0, "read_time": 32277.0, "size_with_metadata": 26421595.0}
-{"workload": "core", "i": 9, "file": "parquet", "size": 165622590, "read_time": 0.234883}
-{"workload": "core", "i": 9, "file": "orc", "size": 97872877, "read_time": 0.245485}
-{"workload": "core", "i": 9, "file": "btrblocks", "size": 34427799.0, "read_time": 50282.0, "size_with_metadata": 34427967.0}
-{"workload": "geo", "i": 9, "file": "parquet", "size": 245655559, "read_time": 0.305577}
-{"workload": "geo", "i": 9, "file": "orc", "size": 181559166, "read_time": 0.298503}
-{"workload": "geo", "i": 9, "file": "btrblocks", "size": 117554095.0, "read_time": 290772.0, "size_with_metadata": 117554263.0}
-{"workload": "classic", "i": 9, "file": "parquet", "size": 312040815, "read_time": 0.334666}
-{"workload": "classic", "i": 9, "file": "orc", "size": 248836780, "read_time": 0.40248}
-{"workload": "classic", "i": 9, "file": "btrblocks", "size": 195169406.0, "read_time": 506512.0, "size_with_metadata": 195169574.0}
-{"workload": "log", "i": 9, "file": "parquet", "size": 261985085, "read_time": 0.319202}
-{"workload": "log", "i": 9, "file": "orc", "size": 186004786, "read_time": 0.293774}
-{"workload": "log", "i": 9, "file": "btrblocks", "size": 26774157.0, "read_time": 51094.0, "size_with_metadata": 26774325.0}
-{"workload": "ml", "i": 9, "file": "parquet", "size": 245793299, "read_time": 0.307914}
-{"workload": "ml", "i": 9, "file": "orc", "size": 175786470, "read_time": 0.334838}
-{"workload": "ml", "i": 9, "file": "btrblocks", "size": 80388811.0, "read_time": 155485.0, "size_with_metadata": 80388979.0}
-{"workload": "bi", "i": 9, "file": "parquet", "size": 167166863, "read_time": 0.228638}
-{"workload": "bi", "i": 9, "file": "orc", "size": 102459149, "read_time": 0.223051}
-{"workload": "bi", "i": 9, "file": "btrblocks", "size": 26421427.0, "read_time": 32849.0, "size_with_metadata": 26421595.0}
+{"workload": "core", "i": 0, "file": "parquet", "size": 37413239, "read_time": 0.196868}
+{"workload": "core", "i": 0, "file": "orc", "size": 38468540, "read_time": 0.364375}
+{"workload": "core", "i": 0, "file": "btrblocks", "size": 44144434.0, "read_time": 53988.0, "size_with_metadata": 44144602.0}
+{"workload": "geo", "i": 0, "file": "parquet", "size": 116094986, "read_time": 0.261397}
+{"workload": "geo", "i": 0, "file": "orc", "size": 108626537, "read_time": 0.368593}
+{"workload": "geo", "i": 0, "file": "btrblocks", "size": 134528231.0, "read_time": 328152.0, "size_with_metadata": 134528399.0}
+{"workload": "classic", "i": 0, "file": "parquet", "size": 198249209, "read_time": 0.382169}
+{"workload": "classic", "i": 0, "file": "orc", "size": 183467312, "read_time": 0.425649}
+{"workload": "classic", "i": 0, "file": "btrblocks", "size": 206339125.0, "read_time": 529363.0, "size_with_metadata": 206339293.0}
+{"workload": "log", "i": 0, "file": "parquet", "size": 23909928, "read_time": 0.172279}
+{"workload": "log", "i": 0, "file": "orc", "size": 17129111, "read_time": 0.24799}
+{"workload": "log", "i": 0, "file": "btrblocks", "size": 32344244.0, "read_time": 61266.0, "size_with_metadata": 32344412.0}
+{"workload": "ml", "i": 0, "file": "parquet", "size": 85059568, "read_time": 0.250202}
+{"workload": "ml", "i": 0, "file": "orc", "size": 83054749, "read_time": 0.370857}
+{"workload": "ml", "i": 0, "file": "btrblocks", "size": 108679782.0, "read_time": 158682.0, "size_with_metadata": 108679950.0}
+{"workload": "bi", "i": 0, "file": "parquet", "size": 31206759, "read_time": 0.190787}
+{"workload": "bi", "i": 0, "file": "orc", "size": 28144655, "read_time": 0.340252}
+{"workload": "bi", "i": 0, "file": "btrblocks", "size": 28230866.0, "read_time": 34672.0, "size_with_metadata": 28231034.0}
+{"workload": "core", "i": 1, "file": "parquet", "size": 37413239, "read_time": 0.180986}
+{"workload": "core", "i": 1, "file": "orc", "size": 38468540, "read_time": 0.362029}
+{"workload": "core", "i": 1, "file": "btrblocks", "size": 44144434.0, "read_time": 50499.0, "size_with_metadata": 44144602.0}
+{"workload": "geo", "i": 1, "file": "parquet", "size": 116094986, "read_time": 0.275626}
+{"workload": "geo", "i": 1, "file": "orc", "size": 108626537, "read_time": 0.364778}
+{"workload": "geo", "i": 1, "file": "btrblocks", "size": 134528231.0, "read_time": 327559.0, "size_with_metadata": 134528399.0}
+{"workload": "classic", "i": 1, "file": "parquet", "size": 198249209, "read_time": 0.375073}
+{"workload": "classic", "i": 1, "file": "orc", "size": 183467312, "read_time": 0.407099}
+{"workload": "classic", "i": 1, "file": "btrblocks", "size": 206339125.0, "read_time": 532167.0, "size_with_metadata": 206339293.0}
+{"workload": "log", "i": 1, "file": "parquet", "size": 23909928, "read_time": 0.172597}
+{"workload": "log", "i": 1, "file": "orc", "size": 17129111, "read_time": 0.247328}
+{"workload": "log", "i": 1, "file": "btrblocks", "size": 32344244.0, "read_time": 60722.0, "size_with_metadata": 32344412.0}
+{"workload": "ml", "i": 1, "file": "parquet", "size": 85059568, "read_time": 0.253582}
+{"workload": "ml", "i": 1, "file": "orc", "size": 83054749, "read_time": 0.370562}
+{"workload": "ml", "i": 1, "file": "btrblocks", "size": 108679782.0, "read_time": 157959.0, "size_with_metadata": 108679950.0}
+{"workload": "bi", "i": 1, "file": "parquet", "size": 31206759, "read_time": 0.192575}
+{"workload": "bi", "i": 1, "file": "orc", "size": 28144655, "read_time": 0.340928}
+{"workload": "bi", "i": 1, "file": "btrblocks", "size": 28230866.0, "read_time": 37642.0, "size_with_metadata": 28231034.0}
+{"workload": "core", "i": 2, "file": "parquet", "size": 37413239, "read_time": 0.195934}
+{"workload": "core", "i": 2, "file": "orc", "size": 38468540, "read_time": 0.36193}
+{"workload": "core", "i": 2, "file": "btrblocks", "size": 44144434.0, "read_time": 50899.0, "size_with_metadata": 44144602.0}
+{"workload": "geo", "i": 2, "file": "parquet", "size": 116094986, "read_time": 0.28142}
+{"workload": "geo", "i": 2, "file": "orc", "size": 108626537, "read_time": 0.382829}
+{"workload": "geo", "i": 2, "file": "btrblocks", "size": 134528231.0, "read_time": 326700.0, "size_with_metadata": 134528399.0}
+{"workload": "classic", "i": 2, "file": "parquet", "size": 198249209, "read_time": 0.372638}
+{"workload": "classic", "i": 2, "file": "orc", "size": 183467312, "read_time": 0.417764}
+{"workload": "classic", "i": 2, "file": "btrblocks", "size": 206339125.0, "read_time": 529074.0, "size_with_metadata": 206339293.0}
+{"workload": "log", "i": 2, "file": "parquet", "size": 23909928, "read_time": 0.173618}
+{"workload": "log", "i": 2, "file": "orc", "size": 17129111, "read_time": 0.249334}
+{"workload": "log", "i": 2, "file": "btrblocks", "size": 32344244.0, "read_time": 61417.0, "size_with_metadata": 32344412.0}
+{"workload": "ml", "i": 2, "file": "parquet", "size": 85059568, "read_time": 0.266978}
+{"workload": "ml", "i": 2, "file": "orc", "size": 83054749, "read_time": 0.365518}
+{"workload": "ml", "i": 2, "file": "btrblocks", "size": 108679782.0, "read_time": 157956.0, "size_with_metadata": 108679950.0}
+{"workload": "bi", "i": 2, "file": "parquet", "size": 31206759, "read_time": 0.197843}
+{"workload": "bi", "i": 2, "file": "orc", "size": 28144655, "read_time": 0.341259}
+{"workload": "bi", "i": 2, "file": "btrblocks", "size": 28230866.0, "read_time": 34591.0, "size_with_metadata": 28231034.0}
+{"workload": "core", "i": 3, "file": "parquet", "size": 37413239, "read_time": 0.194528}
+{"workload": "core", "i": 3, "file": "orc", "size": 38468540, "read_time": 0.372846}
+{"workload": "core", "i": 3, "file": "btrblocks", "size": 44144434.0, "read_time": 53935.0, "size_with_metadata": 44144602.0}
+{"workload": "geo", "i": 3, "file": "parquet", "size": 116094986, "read_time": 0.28235}
+{"workload": "geo", "i": 3, "file": "orc", "size": 108626537, "read_time": 0.379155}
+{"workload": "geo", "i": 3, "file": "btrblocks", "size": 134528231.0, "read_time": 331962.0, "size_with_metadata": 134528399.0}
+{"workload": "classic", "i": 3, "file": "parquet", "size": 198249209, "read_time": 0.376174}
+{"workload": "classic", "i": 3, "file": "orc", "size": 183467312, "read_time": 0.419005}
+{"workload": "classic", "i": 3, "file": "btrblocks", "size": 206339125.0, "read_time": 529277.0, "size_with_metadata": 206339293.0}
+{"workload": "log", "i": 3, "file": "parquet", "size": 23909928, "read_time": 0.175088}
+{"workload": "log", "i": 3, "file": "orc", "size": 17129111, "read_time": 0.241273}
+{"workload": "log", "i": 3, "file": "btrblocks", "size": 32344244.0, "read_time": 64923.0, "size_with_metadata": 32344412.0}
+{"workload": "ml", "i": 3, "file": "parquet", "size": 85059568, "read_time": 0.25355}
+{"workload": "ml", "i": 3, "file": "orc", "size": 83054749, "read_time": 0.369973}
+{"workload": "ml", "i": 3, "file": "btrblocks", "size": 108679782.0, "read_time": 159550.0, "size_with_metadata": 108679950.0}
+{"workload": "bi", "i": 3, "file": "parquet", "size": 31206759, "read_time": 0.193505}
+{"workload": "bi", "i": 3, "file": "orc", "size": 28144655, "read_time": 0.339206}
+{"workload": "bi", "i": 3, "file": "btrblocks", "size": 28230866.0, "read_time": 34765.0, "size_with_metadata": 28231034.0}
+{"workload": "core", "i": 4, "file": "parquet", "size": 37413239, "read_time": 0.195152}
+{"workload": "core", "i": 4, "file": "orc", "size": 38468540, "read_time": 0.372629}
+{"workload": "core", "i": 4, "file": "btrblocks", "size": 44144434.0, "read_time": 50975.0, "size_with_metadata": 44144602.0}
+{"workload": "geo", "i": 4, "file": "parquet", "size": 116094986, "read_time": 0.267961}
+{"workload": "geo", "i": 4, "file": "orc", "size": 108626537, "read_time": 0.383114}
+{"workload": "geo", "i": 4, "file": "btrblocks", "size": 134528231.0, "read_time": 330662.0, "size_with_metadata": 134528399.0}
+{"workload": "classic", "i": 4, "file": "parquet", "size": 198249209, "read_time": 0.378122}
+{"workload": "classic", "i": 4, "file": "orc", "size": 183467312, "read_time": 0.407802}
+{"workload": "classic", "i": 4, "file": "btrblocks", "size": 206339125.0, "read_time": 530940.0, "size_with_metadata": 206339293.0}
+{"workload": "log", "i": 4, "file": "parquet", "size": 23909928, "read_time": 0.170949}
+{"workload": "log", "i": 4, "file": "orc", "size": 17129111, "read_time": 0.259545}
+{"workload": "log", "i": 4, "file": "btrblocks", "size": 32344244.0, "read_time": 60864.0, "size_with_metadata": 32344412.0}
+{"workload": "ml", "i": 4, "file": "parquet", "size": 85059568, "read_time": 0.252693}
+{"workload": "ml", "i": 4, "file": "orc", "size": 83054749, "read_time": 0.361614}
+{"workload": "ml", "i": 4, "file": "btrblocks", "size": 108679782.0, "read_time": 158024.0, "size_with_metadata": 108679950.0}
+{"workload": "bi", "i": 4, "file": "parquet", "size": 31206759, "read_time": 0.193914}
+{"workload": "bi", "i": 4, "file": "orc", "size": 28144655, "read_time": 0.351453}
+{"workload": "bi", "i": 4, "file": "btrblocks", "size": 28230866.0, "read_time": 37413.0, "size_with_metadata": 28231034.0}
+{"workload": "core", "i": 5, "file": "parquet", "size": 37413239, "read_time": 0.196162}
+{"workload": "core", "i": 5, "file": "orc", "size": 38468540, "read_time": 0.371824}
+{"workload": "core", "i": 5, "file": "btrblocks", "size": 44144434.0, "read_time": 51818.0, "size_with_metadata": 44144602.0}
+{"workload": "geo", "i": 5, "file": "parquet", "size": 116094986, "read_time": 0.280381}
+{"workload": "geo", "i": 5, "file": "orc", "size": 108626537, "read_time": 0.37047}
+{"workload": "geo", "i": 5, "file": "btrblocks", "size": 134528231.0, "read_time": 327137.0, "size_with_metadata": 134528399.0}
+{"workload": "classic", "i": 5, "file": "parquet", "size": 198249209, "read_time": 0.377016}
+{"workload": "classic", "i": 5, "file": "orc", "size": 183467312, "read_time": 0.428631}
+{"workload": "classic", "i": 5, "file": "btrblocks", "size": 206339125.0, "read_time": 530503.0, "size_with_metadata": 206339293.0}
+{"workload": "log", "i": 5, "file": "parquet", "size": 23909928, "read_time": 0.169042}
+{"workload": "log", "i": 5, "file": "orc", "size": 17129111, "read_time": 0.24776}
+{"workload": "log", "i": 5, "file": "btrblocks", "size": 32344244.0, "read_time": 64795.0, "size_with_metadata": 32344412.0}
+{"workload": "ml", "i": 5, "file": "parquet", "size": 85059568, "read_time": 0.25165}
+{"workload": "ml", "i": 5, "file": "orc", "size": 83054749, "read_time": 0.370158}
+{"workload": "ml", "i": 5, "file": "btrblocks", "size": 108679782.0, "read_time": 158755.0, "size_with_metadata": 108679950.0}
+{"workload": "bi", "i": 5, "file": "parquet", "size": 31206759, "read_time": 0.1939}
+{"workload": "bi", "i": 5, "file": "orc", "size": 28144655, "read_time": 0.358259}
+{"workload": "bi", "i": 5, "file": "btrblocks", "size": 28230866.0, "read_time": 37309.0, "size_with_metadata": 28231034.0}
+{"workload": "core", "i": 6, "file": "parquet", "size": 37413239, "read_time": 0.194908}
+{"workload": "core", "i": 6, "file": "orc", "size": 38468540, "read_time": 0.363795}
+{"workload": "core", "i": 6, "file": "btrblocks", "size": 44144434.0, "read_time": 54068.0, "size_with_metadata": 44144602.0}
+{"workload": "geo", "i": 6, "file": "parquet", "size": 116094986, "read_time": 0.28274}
+{"workload": "geo", "i": 6, "file": "orc", "size": 108626537, "read_time": 0.37187}
+{"workload": "geo", "i": 6, "file": "btrblocks", "size": 134528231.0, "read_time": 328742.0, "size_with_metadata": 134528399.0}
+{"workload": "classic", "i": 6, "file": "parquet", "size": 198249209, "read_time": 0.375111}
+{"workload": "classic", "i": 6, "file": "orc", "size": 183467312, "read_time": 0.418246}
+{"workload": "classic", "i": 6, "file": "btrblocks", "size": 206339125.0, "read_time": 529157.0, "size_with_metadata": 206339293.0}
+{"workload": "log", "i": 6, "file": "parquet", "size": 23909928, "read_time": 0.172212}
+{"workload": "log", "i": 6, "file": "orc", "size": 17129111, "read_time": 0.253236}
+{"workload": "log", "i": 6, "file": "btrblocks", "size": 32344244.0, "read_time": 64825.0, "size_with_metadata": 32344412.0}
+{"workload": "ml", "i": 6, "file": "parquet", "size": 85059568, "read_time": 0.236842}
+{"workload": "ml", "i": 6, "file": "orc", "size": 83054749, "read_time": 0.369046}
+{"workload": "ml", "i": 6, "file": "btrblocks", "size": 108679782.0, "read_time": 158730.0, "size_with_metadata": 108679950.0}
+{"workload": "bi", "i": 6, "file": "parquet", "size": 31206759, "read_time": 0.192263}
+{"workload": "bi", "i": 6, "file": "orc", "size": 28144655, "read_time": 0.342713}
+{"workload": "bi", "i": 6, "file": "btrblocks", "size": 28230866.0, "read_time": 37711.0, "size_with_metadata": 28231034.0}
+{"workload": "core", "i": 7, "file": "parquet", "size": 37413239, "read_time": 0.198964}
+{"workload": "core", "i": 7, "file": "orc", "size": 38468540, "read_time": 0.37052}
+{"workload": "core", "i": 7, "file": "btrblocks", "size": 44144434.0, "read_time": 50524.0, "size_with_metadata": 44144602.0}
+{"workload": "geo", "i": 7, "file": "parquet", "size": 116094986, "read_time": 0.280729}
+{"workload": "geo", "i": 7, "file": "orc", "size": 108626537, "read_time": 0.361973}
+{"workload": "geo", "i": 7, "file": "btrblocks", "size": 134528231.0, "read_time": 327195.0, "size_with_metadata": 134528399.0}
+{"workload": "classic", "i": 7, "file": "parquet", "size": 198249209, "read_time": 0.375558}
+{"workload": "classic", "i": 7, "file": "orc", "size": 183467312, "read_time": 0.432377}
+{"workload": "classic", "i": 7, "file": "btrblocks", "size": 206339125.0, "read_time": 529060.0, "size_with_metadata": 206339293.0}
+{"workload": "log", "i": 7, "file": "parquet", "size": 23909928, "read_time": 0.170284}
+{"workload": "log", "i": 7, "file": "orc", "size": 17129111, "read_time": 0.24288}
+{"workload": "log", "i": 7, "file": "btrblocks", "size": 32344244.0, "read_time": 61806.0, "size_with_metadata": 32344412.0}
+{"workload": "ml", "i": 7, "file": "parquet", "size": 85059568, "read_time": 0.252231}
+{"workload": "ml", "i": 7, "file": "orc", "size": 83054749, "read_time": 0.372437}
+{"workload": "ml", "i": 7, "file": "btrblocks", "size": 108679782.0, "read_time": 158963.0, "size_with_metadata": 108679950.0}
+{"workload": "bi", "i": 7, "file": "parquet", "size": 31206759, "read_time": 0.194545}
+{"workload": "bi", "i": 7, "file": "orc", "size": 28144655, "read_time": 0.34766}
+{"workload": "bi", "i": 7, "file": "btrblocks", "size": 28230866.0, "read_time": 37700.0, "size_with_metadata": 28231034.0}
+{"workload": "core", "i": 8, "file": "parquet", "size": 37413239, "read_time": 0.181401}
+{"workload": "core", "i": 8, "file": "orc", "size": 38468540, "read_time": 0.371349}
+{"workload": "core", "i": 8, "file": "btrblocks", "size": 44144434.0, "read_time": 53576.0, "size_with_metadata": 44144602.0}
+{"workload": "geo", "i": 8, "file": "parquet", "size": 116094986, "read_time": 0.278179}
+{"workload": "geo", "i": 8, "file": "orc", "size": 108626537, "read_time": 0.371151}
+{"workload": "geo", "i": 8, "file": "btrblocks", "size": 134528231.0, "read_time": 328957.0, "size_with_metadata": 134528399.0}
+{"workload": "classic", "i": 8, "file": "parquet", "size": 198249209, "read_time": 0.366296}
+{"workload": "classic", "i": 8, "file": "orc", "size": 183467312, "read_time": 0.390452}
+{"workload": "classic", "i": 8, "file": "btrblocks", "size": 206339125.0, "read_time": 532135.0, "size_with_metadata": 206339293.0}
+{"workload": "log", "i": 8, "file": "parquet", "size": 23909928, "read_time": 0.172388}
+{"workload": "log", "i": 8, "file": "orc", "size": 17129111, "read_time": 0.264012}
+{"workload": "log", "i": 8, "file": "btrblocks", "size": 32344244.0, "read_time": 61055.0, "size_with_metadata": 32344412.0}
+{"workload": "ml", "i": 8, "file": "parquet", "size": 85059568, "read_time": 0.251038}
+{"workload": "ml", "i": 8, "file": "orc", "size": 83054749, "read_time": 0.370713}
+{"workload": "ml", "i": 8, "file": "btrblocks", "size": 108679782.0, "read_time": 158520.0, "size_with_metadata": 108679950.0}
+{"workload": "bi", "i": 8, "file": "parquet", "size": 31206759, "read_time": 0.195869}
+{"workload": "bi", "i": 8, "file": "orc", "size": 28144655, "read_time": 0.341115}
+{"workload": "bi", "i": 8, "file": "btrblocks", "size": 28230866.0, "read_time": 34635.0, "size_with_metadata": 28231034.0}
+{"workload": "core", "i": 9, "file": "parquet", "size": 37413239, "read_time": 0.198634}
+{"workload": "core", "i": 9, "file": "orc", "size": 38468540, "read_time": 0.369989}
+{"workload": "core", "i": 9, "file": "btrblocks", "size": 44144434.0, "read_time": 51591.0, "size_with_metadata": 44144602.0}
+{"workload": "geo", "i": 9, "file": "parquet", "size": 116094986, "read_time": 0.283446}
+{"workload": "geo", "i": 9, "file": "orc", "size": 108626537, "read_time": 0.372977}
+{"workload": "geo", "i": 9, "file": "btrblocks", "size": 134528231.0, "read_time": 326702.0, "size_with_metadata": 134528399.0}
+{"workload": "classic", "i": 9, "file": "parquet", "size": 198249209, "read_time": 0.377872}
+{"workload": "classic", "i": 9, "file": "orc", "size": 183467312, "read_time": 0.416204}
+{"workload": "classic", "i": 9, "file": "btrblocks", "size": 206339125.0, "read_time": 530433.0, "size_with_metadata": 206339293.0}
+{"workload": "log", "i": 9, "file": "parquet", "size": 23909928, "read_time": 0.170025}
+{"workload": "log", "i": 9, "file": "orc", "size": 17129111, "read_time": 0.250374}
+{"workload": "log", "i": 9, "file": "btrblocks", "size": 32344244.0, "read_time": 63215.0, "size_with_metadata": 32344412.0}
+{"workload": "ml", "i": 9, "file": "parquet", "size": 85059568, "read_time": 0.248494}
+{"workload": "ml", "i": 9, "file": "orc", "size": 83054749, "read_time": 0.36462}
+{"workload": "ml", "i": 9, "file": "btrblocks", "size": 108679782.0, "read_time": 158120.0, "size_with_metadata": 108679950.0}
+{"workload": "bi", "i": 9, "file": "parquet", "size": 31206759, "read_time": 0.195436}
+{"workload": "bi", "i": 9, "file": "orc", "size": 28144655, "read_time": 0.340071}
+{"workload": "bi", "i": 9, "file": "btrblocks", "size": 28230866.0, "read_time": 37025.0, "size_with_metadata": 28231034.0}
