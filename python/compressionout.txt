@@ -1,1 +1,1 @@
-binary: 0 btr: 9.10231 total: 9.10231 verify: 1
+binary: 0 btr: 3.86783 total: 3.86783 verify: 1
