@@ -178,3 +178,183 @@
 {"workload": "bi", "i": 9, "file": "parquet", "size": 31206759, "read_time": 0.195436}
 {"workload": "bi", "i": 9, "file": "orc", "size": 28144655, "read_time": 0.340071}
 {"workload": "bi", "i": 9, "file": "btrblocks", "size": 28230866.0, "read_time": 37025.0, "size_with_metadata": 28231034.0}
+{"workload": "core", "run": 3, "file": "parquet", "size": 37413239, "read_time": 0.195101}
+{"workload": "core", "run": 3, "file": "orc", "size": 38468540, "read_time": 0.359527}
+{"workload": "core", "run": 3, "file": "btrblocks", "size": 44152447.0, "read_time": 50508.0, "size_with_metadata": 44152615.0}
+{"workload": "geo", "run": 3, "file": "parquet", "size": 116094986, "read_time": 0.2768}
+{"workload": "geo", "run": 3, "file": "orc", "size": 108626537, "read_time": 0.364453}
+{"workload": "geo", "run": 3, "file": "btrblocks", "size": 134541531.0, "read_time": 326145.0, "size_with_metadata": 134541699.0}
+{"workload": "classic", "run": 3, "file": "parquet", "size": 198249209, "read_time": 0.367298}
+{"workload": "classic", "run": 3, "file": "orc", "size": 183467312, "read_time": 0.419826}
+{"workload": "classic", "run": 3, "file": "btrblocks", "size": 206337312.0, "read_time": 530432.0, "size_with_metadata": 206337480.0}
+{"workload": "log", "run": 3, "file": "parquet", "size": 23909928, "read_time": 0.169979}
+{"workload": "log", "run": 3, "file": "orc", "size": 17129111, "read_time": 0.243723}
+{"workload": "log", "run": 3, "file": "btrblocks", "size": 32433994.0, "read_time": 60167.0, "size_with_metadata": 32434162.0}
+{"workload": "ml", "run": 3, "file": "parquet", "size": 85059568, "read_time": 0.248596}
+{"workload": "ml", "run": 3, "file": "orc", "size": 83054749, "read_time": 0.370221}
+{"workload": "ml", "run": 3, "file": "btrblocks", "size": 108686140.0, "read_time": 157572.0, "size_with_metadata": 108686308.0}
+{"workload": "bi", "run": 3, "file": "parquet", "size": 31206759, "read_time": 0.173866}
+{"workload": "bi", "run": 3, "file": "orc", "size": 28144655, "read_time": 0.341099}
+{"workload": "bi", "run": 3, "file": "btrblocks", "size": 28505386.0, "read_time": 34090.0, "size_with_metadata": 28505554.0}
+{"workload": "core", "run": 3, "file": "parquet", "size": 37413239, "read_time": 0.192647}
+{"workload": "core", "run": 3, "file": "orc", "size": 38468540, "read_time": 0.359462}
+{"workload": "core", "run": 3, "file": "btrblocks", "size": 44149390.0, "read_time": 50718.0, "size_with_metadata": 44149558.0}
+{"workload": "geo", "run": 3, "file": "parquet", "size": 116094986, "read_time": 0.274645}
+{"workload": "geo", "run": 3, "file": "orc", "size": 108626537, "read_time": 0.369666}
+{"workload": "geo", "run": 3, "file": "btrblocks", "size": 134536880.0, "read_time": 327918.0, "size_with_metadata": 134537048.0}
+{"workload": "classic", "run": 3, "file": "parquet", "size": 198249209, "read_time": 0.368582}
+{"workload": "classic", "run": 3, "file": "orc", "size": 183467312, "read_time": 0.415062}
+{"workload": "classic", "run": 3, "file": "btrblocks", "size": 206332643.0, "read_time": 528678.0, "size_with_metadata": 206332811.0}
+{"workload": "log", "run": 3, "file": "parquet", "size": 23909928, "read_time": 0.142981}
+{"workload": "log", "run": 3, "file": "orc", "size": 17129111, "read_time": 0.252702}
+{"workload": "log", "run": 3, "file": "btrblocks", "size": 32334777.0, "read_time": 61656.0, "size_with_metadata": 32334945.0}
+{"workload": "ml", "run": 3, "file": "parquet", "size": 85059568, "read_time": 0.247331}
+{"workload": "ml", "run": 3, "file": "orc", "size": 83054749, "read_time": 0.367637}
+{"workload": "ml", "run": 3, "file": "btrblocks", "size": 108681196.0, "read_time": 157751.0, "size_with_metadata": 108681364.0}
+{"workload": "bi", "run": 3, "file": "parquet", "size": 31206759, "read_time": 0.205817}
+{"workload": "bi", "run": 3, "file": "orc", "size": 28144655, "read_time": 0.334846}
+{"workload": "bi", "run": 3, "file": "btrblocks", "size": 28534011.0, "read_time": 34155.0, "size_with_metadata": 28534179.0}
+{"workload": "core", "run": 4, "file": "parquet", "size": 37413239, "read_time": 0.19334}
+{"workload": "core", "run": 4, "file": "orc", "size": 38468540, "read_time": 0.357793}
+{"workload": "core", "run": 4, "file": "btrblocks", "size": 44142682.0, "read_time": 50469.0, "size_with_metadata": 44142850.0}
+{"workload": "core", "run": 3, "file": "parquet", "size": 37413239, "read_time": 0.194058}
+{"workload": "core", "run": 3, "file": "orc", "size": 38468540, "read_time": 0.373976}
+{"workload": "core", "run": 3, "file": "btrblocks", "size": 44129851.0, "read_time": 53469.0, "size_with_metadata": 44130019.0}
+{"workload": "core", "run": 3, "file": "parquet", "size": 37413239, "read_time": 0.195471}
+{"workload": "core", "run": 3, "file": "orc", "size": 38468540, "read_time": 0.36536}
+{"workload": "core", "run": 3, "file": "btrblocks", "size": 44345254.0, "read_time": 48226.0, "size_with_metadata": 44345422.0}
+{"workload": "geo", "run": 3, "file": "parquet", "size": 116094986, "read_time": 0.27361}
+{"workload": "geo", "run": 3, "file": "orc", "size": 108626537, "read_time": 0.362253}
+{"workload": "geo", "run": 3, "file": "btrblocks", "size": 134531738.0, "read_time": 326877.0, "size_with_metadata": 134531906.0}
+{"workload": "classic", "run": 3, "file": "parquet", "size": 198249209, "read_time": 0.365662}
+{"workload": "classic", "run": 3, "file": "orc", "size": 183467312, "read_time": 0.408835}
+{"workload": "classic", "run": 3, "file": "btrblocks", "size": 206508381.0, "read_time": 526402.0, "size_with_metadata": 206508549.0}
+{"workload": "log", "run": 3, "file": "parquet", "size": 23909928, "read_time": 0.168482}
+{"workload": "log", "run": 3, "file": "orc", "size": 17129111, "read_time": 0.247179}
+{"workload": "log", "run": 3, "file": "btrblocks", "size": 32381668.0, "read_time": 60333.0, "size_with_metadata": 32381836.0}
+{"workload": "ml", "run": 3, "file": "parquet", "size": 85059568, "read_time": 0.243167}
+{"workload": "ml", "run": 3, "file": "orc", "size": 83054749, "read_time": 0.362652}
+{"workload": "ml", "run": 3, "file": "btrblocks", "size": 108737136.0, "read_time": 162077.0, "size_with_metadata": 108737304.0}
+{"workload": "bi", "run": 3, "file": "parquet", "size": 31206759, "read_time": 0.191808}
+{"workload": "bi", "run": 3, "file": "orc", "size": 28144655, "read_time": 0.33687}
+{"workload": "bi", "run": 3, "file": "btrblocks", "size": 28336401.0, "read_time": 36440.0, "size_with_metadata": 28336569.0}
+{"workload": "core", "run": 4, "file": "parquet", "size": 37413239, "read_time": 0.19225}
+{"workload": "core", "run": 4, "file": "orc", "size": 38468540, "read_time": 0.367759}
+{"workload": "core", "run": 4, "file": "btrblocks", "size": 44346342.0, "read_time": 48328.0, "size_with_metadata": 44346510.0}
+{"workload": "geo", "run": 4, "file": "parquet", "size": 116094986, "read_time": 0.273526}
+{"workload": "geo", "run": 4, "file": "orc", "size": 108626537, "read_time": 0.368936}
+{"workload": "geo", "run": 4, "file": "btrblocks", "size": 134546065.0, "read_time": 327736.0, "size_with_metadata": 134546233.0}
+{"workload": "classic", "run": 4, "file": "parquet", "size": 198249209, "read_time": 0.365495}
+{"workload": "classic", "run": 4, "file": "orc", "size": 183467312, "read_time": 0.415537}
+{"workload": "classic", "run": 4, "file": "btrblocks", "size": 206540597.0, "read_time": 529026.0, "size_with_metadata": 206540765.0}
+{"workload": "log", "run": 4, "file": "parquet", "size": 23909928, "read_time": 0.172204}
+{"workload": "log", "run": 4, "file": "orc", "size": 17129111, "read_time": 0.246954}
+{"workload": "log", "run": 4, "file": "btrblocks", "size": 32351386.0, "read_time": 59991.0, "size_with_metadata": 32351554.0}
+{"workload": "ml", "run": 4, "file": "parquet", "size": 85059568, "read_time": 0.246098}
+{"workload": "ml", "run": 4, "file": "orc", "size": 83054749, "read_time": 0.367325}
+{"workload": "ml", "run": 4, "file": "btrblocks", "size": 108743232.0, "read_time": 157860.0, "size_with_metadata": 108743400.0}
+{"workload": "bi", "run": 4, "file": "parquet", "size": 31206759, "read_time": 0.190614}
+{"workload": "bi", "run": 4, "file": "orc", "size": 28144655, "read_time": 0.346998}
+{"workload": "bi", "run": 4, "file": "btrblocks", "size": 28429662.0, "read_time": 36470.0, "size_with_metadata": 28429830.0}
+{"workload": "core", "run": 5, "file": "parquet", "size": 37413239, "read_time": 0.193008}
+{"workload": "core", "run": 5, "file": "orc", "size": 38468540, "read_time": 0.362301}
+{"workload": "core", "run": 5, "file": "btrblocks", "size": 44347918.0, "read_time": 48517.0, "size_with_metadata": 44348086.0}
+{"workload": "geo", "run": 5, "file": "parquet", "size": 116094986, "read_time": 0.269026}
+{"workload": "geo", "run": 5, "file": "orc", "size": 108626537, "read_time": 0.359349}
+{"workload": "geo", "run": 5, "file": "btrblocks", "size": 134582045.0, "read_time": 325155.0, "size_with_metadata": 134582213.0}
+{"workload": "classic", "run": 5, "file": "parquet", "size": 198249209, "read_time": 0.372657}
+{"workload": "classic", "run": 5, "file": "orc", "size": 183467312, "read_time": 0.416188}
+{"workload": "classic", "run": 5, "file": "btrblocks", "size": 206552302.0, "read_time": 527901.0, "size_with_metadata": 206552470.0}
+{"workload": "log", "run": 5, "file": "parquet", "size": 23909928, "read_time": 0.168666}
+{"workload": "log", "run": 5, "file": "orc", "size": 17129111, "read_time": 0.239299}
+{"workload": "log", "run": 5, "file": "btrblocks", "size": 32351464.0, "read_time": 60244.0, "size_with_metadata": 32351632.0}
+{"workload": "ml", "run": 5, "file": "parquet", "size": 85059568, "read_time": 0.240035}
+{"workload": "ml", "run": 5, "file": "orc", "size": 83054749, "read_time": 0.372871}
+{"workload": "ml", "run": 5, "file": "btrblocks", "size": 108739216.0, "read_time": 162191.0, "size_with_metadata": 108739384.0}
+{"workload": "bi", "run": 5, "file": "parquet", "size": 31206759, "read_time": 0.191994}
+{"workload": "bi", "run": 5, "file": "orc", "size": 28144655, "read_time": 0.331262}
+{"workload": "bi", "run": 5, "file": "btrblocks", "size": 28431875.0, "read_time": 33482.0, "size_with_metadata": 28432043.0}
+{"workload": "core", "run": 6, "file": "parquet", "size": 37413239, "read_time": 0.187885}
+{"workload": "core", "run": 6, "file": "orc", "size": 38468540, "read_time": 0.375478}
+{"workload": "core", "run": 6, "file": "btrblocks", "size": 44402318.0, "read_time": 49807.0, "size_with_metadata": 44402486.0}
+{"workload": "geo", "run": 6, "file": "parquet", "size": 116094986, "read_time": 0.270679}
+{"workload": "geo", "run": 6, "file": "orc", "size": 108626537, "read_time": 0.362748}
+{"workload": "geo", "run": 6, "file": "btrblocks", "size": 134591161.0, "read_time": 326247.0, "size_with_metadata": 134591329.0}
+{"workload": "classic", "run": 6, "file": "parquet", "size": 198249209, "read_time": 0.365438}
+{"workload": "classic", "run": 6, "file": "orc", "size": 183467312, "read_time": 0.418479}
+{"workload": "classic", "run": 6, "file": "btrblocks", "size": 206557266.0, "read_time": 529393.0, "size_with_metadata": 206557434.0}
+{"workload": "log", "run": 6, "file": "parquet", "size": 23909928, "read_time": 0.169336}
+{"workload": "log", "run": 6, "file": "orc", "size": 17129111, "read_time": 0.246985}
+{"workload": "log", "run": 6, "file": "btrblocks", "size": 32526078.0, "read_time": 64012.0, "size_with_metadata": 32526246.0}
+{"workload": "ml", "run": 6, "file": "parquet", "size": 85059568, "read_time": 0.243718}
+{"workload": "ml", "run": 6, "file": "orc", "size": 83054749, "read_time": 0.357462}
+{"workload": "ml", "run": 6, "file": "btrblocks", "size": 108735904.0, "read_time": 157278.0, "size_with_metadata": 108736072.0}
+{"workload": "bi", "run": 6, "file": "parquet", "size": 31206759, "read_time": 0.190549}
+{"workload": "bi", "run": 6, "file": "orc", "size": 28144655, "read_time": 0.341345}
+{"workload": "bi", "run": 6, "file": "btrblocks", "size": 28450015.0, "read_time": 36282.0, "size_with_metadata": 28450183.0}
+{"workload": "core", "run": 7, "file": "parquet", "size": 37413239, "read_time": 0.191668}
+{"workload": "core", "run": 7, "file": "orc", "size": 38468540, "read_time": 0.364863}
+{"workload": "core", "run": 7, "file": "btrblocks", "size": 44792150.0, "read_time": 51036.0, "size_with_metadata": 44792318.0}
+{"workload": "geo", "run": 7, "file": "parquet", "size": 116094986, "read_time": 0.271076}
+{"workload": "geo", "run": 7, "file": "orc", "size": 108626537, "read_time": 0.369033}
+{"workload": "geo", "run": 7, "file": "btrblocks", "size": 134602958.0, "read_time": 329298.0, "size_with_metadata": 134603126.0}
+{"workload": "classic", "run": 7, "file": "parquet", "size": 198249209, "read_time": 0.363075}
+{"workload": "classic", "run": 7, "file": "orc", "size": 183467312, "read_time": 0.408467}
+{"workload": "classic", "run": 7, "file": "btrblocks", "size": 206561165.0, "read_time": 529966.0, "size_with_metadata": 206561333.0}
+{"workload": "log", "run": 7, "file": "parquet", "size": 23909928, "read_time": 0.172178}
+{"workload": "log", "run": 7, "file": "orc", "size": 17129111, "read_time": 0.249491}
+{"workload": "log", "run": 7, "file": "btrblocks", "size": 32355873.0, "read_time": 61200.0, "size_with_metadata": 32356041.0}
+{"workload": "ml", "run": 7, "file": "parquet", "size": 85059568, "read_time": 0.242312}
+{"workload": "ml", "run": 7, "file": "orc", "size": 83054749, "read_time": 0.362608}
+{"workload": "ml", "run": 7, "file": "btrblocks", "size": 108741920.0, "read_time": 162756.0, "size_with_metadata": 108742088.0}
+{"workload": "bi", "run": 7, "file": "parquet", "size": 31206759, "read_time": 0.191694}
+{"workload": "bi", "run": 7, "file": "orc", "size": 28144655, "read_time": 0.334851}
+{"workload": "bi", "run": 7, "file": "btrblocks", "size": 28586285.0, "read_time": 35707.0, "size_with_metadata": 28586453.0}
+{"workload": "core", "run": 8, "file": "parquet", "size": 37413239, "read_time": 0.192973}
+{"workload": "core", "run": 8, "file": "orc", "size": 38468540, "read_time": 0.367435}
+{"workload": "core", "run": 8, "file": "btrblocks", "size": 45089183.0, "read_time": 50457.0, "size_with_metadata": 45089351.0}
+{"workload": "geo", "run": 8, "file": "parquet", "size": 116094986, "read_time": 0.255945}
+{"workload": "geo", "run": 8, "file": "orc", "size": 108626537, "read_time": 0.362565}
+{"workload": "geo", "run": 8, "file": "btrblocks", "size": 134598546.0, "read_time": 330938.0, "size_with_metadata": 134598714.0}
+{"workload": "classic", "run": 8, "file": "parquet", "size": 198249209, "read_time": 0.376909}
+{"workload": "classic", "run": 8, "file": "orc", "size": 183467312, "read_time": 0.41379}
+{"workload": "classic", "run": 8, "file": "btrblocks", "size": 206562137.0, "read_time": 527005.0, "size_with_metadata": 206562305.0}
+{"workload": "log", "run": 8, "file": "parquet", "size": 23909928, "read_time": 0.16894}
+{"workload": "log", "run": 8, "file": "orc", "size": 17129111, "read_time": 0.244706}
+{"workload": "log", "run": 8, "file": "btrblocks", "size": 32391937.0, "read_time": 60050.0, "size_with_metadata": 32392105.0}
+{"workload": "ml", "run": 8, "file": "parquet", "size": 85059568, "read_time": 0.245146}
+{"workload": "ml", "run": 8, "file": "orc", "size": 83054749, "read_time": 0.369936}
+{"workload": "ml", "run": 8, "file": "btrblocks", "size": 108738944.0, "read_time": 163662.0, "size_with_metadata": 108739112.0}
+{"workload": "bi", "run": 8, "file": "parquet", "size": 31206759, "read_time": 0.196528}
+{"workload": "bi", "run": 8, "file": "orc", "size": 28144655, "read_time": 0.338103}
+{"workload": "bi", "run": 8, "file": "btrblocks", "size": 28487183.0, "read_time": 36358.0, "size_with_metadata": 28487351.0}
+{"workload": "core", "run": 9, "file": "parquet", "size": 37413239, "read_time": 0.195942}
+{"workload": "core", "run": 9, "file": "orc", "size": 38468540, "read_time": 0.367519}
+{"workload": "core", "run": 9, "file": "btrblocks", "size": 45122455.0, "read_time": 48125.0, "size_with_metadata": 45122623.0}
+{"workload": "geo", "run": 9, "file": "parquet", "size": 116094986, "read_time": 0.272375}
+{"workload": "geo", "run": 9, "file": "orc", "size": 108626537, "read_time": 0.375897}
+{"workload": "geo", "run": 9, "file": "btrblocks", "size": 134603398.0, "read_time": 326173.0, "size_with_metadata": 134603566.0}
+{"workload": "classic", "run": 9, "file": "parquet", "size": 198249209, "read_time": 0.3656}
+{"workload": "classic", "run": 9, "file": "orc", "size": 183467312, "read_time": 0.416714}
+{"workload": "classic", "run": 9, "file": "btrblocks", "size": 206568989.0, "read_time": 528120.0, "size_with_metadata": 206569157.0}
+{"workload": "log", "run": 9, "file": "parquet", "size": 23909928, "read_time": 0.169816}
+{"workload": "log", "run": 9, "file": "orc", "size": 17129111, "read_time": 0.250361}
+{"workload": "log", "run": 9, "file": "btrblocks", "size": 32400924.0, "read_time": 62701.0, "size_with_metadata": 32401092.0}
+{"workload": "ml", "run": 9, "file": "parquet", "size": 85059568, "read_time": 0.245732}
+{"workload": "ml", "run": 9, "file": "orc", "size": 83054749, "read_time": 0.363532}
+{"workload": "ml", "run": 9, "file": "btrblocks", "size": 108737616.0, "read_time": 157689.0, "size_with_metadata": 108737784.0}
+{"workload": "bi", "run": 9, "file": "parquet", "size": 31206759, "read_time": 0.190401}
+{"workload": "bi", "run": 9, "file": "orc", "size": 28144655, "read_time": 0.338224}
+{"workload": "bi", "run": 9, "file": "btrblocks", "size": 28498500.0, "read_time": 34579.0, "size_with_metadata": 28498668.0}
+{"workload": "core", "run": 10, "file": "parquet", "size": 37413239, "read_time": 0.191344}
+{"workload": "core", "run": 10, "file": "orc", "size": 38468540, "read_time": 0.368315}
+{"workload": "core", "run": 10, "file": "btrblocks", "size": 45128723.0, "read_time": 46924.0, "size_with_metadata": 45128891.0}
+{"workload": "geo", "run": 10, "file": "parquet", "size": 116094986, "read_time": 0.27214}
+{"workload": "geo", "run": 10, "file": "orc", "size": 108626537, "read_time": 0.370015}
+{"workload": "geo", "run": 10, "file": "btrblocks", "size": 134605603.0, "read_time": 326605.0, "size_with_metadata": 134605771.0}
+{"workload": "classic", "run": 10, "file": "parquet", "size": 198249209, "read_time": 0.368664}
+{"workload": "classic", "run": 10, "file": "orc", "size": 183467312, "read_time": 0.420955}
+{"workload": "classic", "run": 10, "file": "btrblocks", "size": 206557733.0, "read_time": 527892.0, "size_with_metadata": 206557901.0}
+{"workload": "log", "run": 10, "file": "parquet", "size": 23909928, "read_time": 0.170275}
+{"workload": "log", "run": 10, "file": "orc", "size": 17129111, "read_time": 0.245531}
+{"workload": "log", "run": 10, "file": "btrblocks", "size": 32349394.0, "read_time": 62144.0, "size_with_metadata": 32349562.0}
